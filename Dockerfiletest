@@ -1,2 +1,2 @@
-FROM jenkinsbuild:latest
+FROM jenkinsbuild
 run npm test
