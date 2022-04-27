@@ -1,0 +1,2 @@
+FROM fg/jenkins
+run npm test
