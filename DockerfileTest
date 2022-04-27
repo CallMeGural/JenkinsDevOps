@@ -1,2 +1,2 @@
-FROM fg/jenkins
+FROM jenkinsbuild:latest
 run npm test
